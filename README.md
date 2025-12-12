@@ -138,7 +138,7 @@ Create `.env` in `/backend`:
 
 ```env
 PORT=5000
-MONGO_URI=mongodb+srv://hemam4349_db_user:Honey%401811@cluster0.qybm1ie.mongodb.net/scalable_web_app?retryWrites=true&w=majority&appName=Cluster0
+MONGO_URI=mongodb+srv://hemam4349_db_user:***********@cluster0.qybm1ie.mongodb.net/scalable_web_app?retryWrites=true&w=majority&appName=Cluster0
 JWT_SECRET=supersecret_jwt_key_change_me
 JWT_EXPIRES_IN=1d
 CLIENT_URL=http://localhost:5173
